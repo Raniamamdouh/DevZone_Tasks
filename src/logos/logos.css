@@ -1,0 +1,20 @@
+.header {
+   display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f4f4f4;
+    padding: 10px 20px;
+  }
+  .pic{
+    width: 80px;
+  }
+  .nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: blue;
+  }
+  
+  .nav a:hover {
+    text-decoration: underline;
+  }
+  
